@@ -25,7 +25,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 ## automatic code formatters
 
 - `standard --fix` - automatic formatting is built-in to `standard`!
-- **[prettier-standard](https://www.npmjs.com/package/prettier-standard)** - format with [prettier](https://github.com/prettier/prettier) configured to standard rules
+- **[prettier-standard](https://www.npmjs.com/package/@ksmithut/prettier-standard)** - format with [prettier](https://github.com/prettier/prettier) configured to standard rules
 - **["unix commands" gist](https://gist.github.com/watson/453fc63cace521fcdadc)** - A list of search and replace unix commands to help make a node repository 'standard' compliant
 
 ## editor plugins
